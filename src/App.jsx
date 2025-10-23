@@ -33,7 +33,7 @@ return (
   <div className="container">
     <div className="calculator">
       <h1 className="header">RONIAN GULLES - IT3A</h1>
-S
+
       <Display value={displayValue} />
 
       <div className="buttons">
